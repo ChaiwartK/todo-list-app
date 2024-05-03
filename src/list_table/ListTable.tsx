@@ -2,8 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { Button, Modal, Form, DropdownButton, Dropdown } from 'react-bootstrap';
 import './ListTable.css';
 
-
-
 interface Todo {
 id: number;
 name: string;
