@@ -1,0 +1,11 @@
+.dropdown-item.todo-status-red .dropdown-toggle {
+    background-color: red;
+  }
+  
+  .dropdown-item.todo-status-yellow .dropdown-toggle {
+    background-color: yellow;
+  }
+  
+  .dropdown-item.todo-status-green .dropdown-toggle {
+    background-color: green;
+  }
